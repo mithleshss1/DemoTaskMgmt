@@ -1,0 +1,75 @@
+﻿@{
+    ViewData["Title"] = "Create/Edit Task";
+}
+
+
+<section class="form-section">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="taskDB">
+
+                    <div class="taskDB-heading">
+                        <h1>Task Form</h1>
+                    </div>
+
+                    <div class="task-form">
+                        <form id="taskForm">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label>Title</label>
+                                        <input type="text" id="title" class="form-control" placeholder="Please enter value">
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label>Description</label>
+                                        <input id="description" type="text" class="form-control" placeholder="Please enter value">
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label>Priority</label>
+                                        <select id="priority" class="form-select" aria-label="Default select example">
+                                            <option value="1" selected>1</option>
+                                            <option value="2">2</option>
+                                            <option value="3">3</option>
+                                            <option value="4">4</option>
+                                            <option value="5">5</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label>DueDate</label>
+                                        <input id="due-date" type="date" onkeydown="return false" class="form-control datepicker" placeholder="Please enter value">
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label>Status</label>
+                                        <select id="status" class="form-select" aria-label="Default select example">
+                                            <option value="Active" selected>Active</option>
+                                            <option value="Inactive">Inactive</option>
+                                        </select>
+                                    </div>
+                                </div>
+
+                                <div class="col-12 d-flex">
+                                    <button id="createBtn" class="btn create-button" type="button">Create</button>
+                                    <button id="updateBtn" class="btn create-button" type="button">Update</button>
+                                    <a href="/" id="backBtn" class="btn create-button ms-3" type="button">Back</a>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+@section Scripts {
+    <script src="~/js/TaskForm.js" asp-append-version="true"></script>
+}

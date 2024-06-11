@@ -1,0 +1,203 @@
+body{
+    margin: 0px;
+    padding: 15px 0px;
+}
+
+ul{
+    margin: 0px;
+    padding: 0px;
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.active-status{
+    background-color: #f0f8f4;
+    border: 1px solid #4dc38e;
+    color: #4dc38e;
+    padding: 5px 10px;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    height: auto;
+    border-radius: 100px;
+}
+
+.Inactive-status{
+    background-color: #fef1f1;
+    border: 1px solid #fe6c6b;
+    color: #fe6c6b;
+    padding: 5px 10px;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    height: auto;
+    border-radius: 100px;
+}
+
+td,th{
+    align-content: center;
+    /* padding: 0.5rem 1rem !important; */
+}
+
+
+.btn.create-button{
+    background: #771ad1;
+    padding: 4px 10px;
+    color: white;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 16px;
+    transition: all .3s ease-in-out;
+}
+
+/*.btn.create-button:hover{
+    border: 1px solid #771ad1;
+    color: #771ad1;
+}*/
+
+
+.taskDB{
+    border: 1px solid #fbfbfb;
+    border-radius: 4px;
+    box-shadow: 0px 0px 10px #c5c5c5;
+}
+
+.taskDB-heading{
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    padding: 15px 15px 0px;
+}
+
+.taskDB-heading h1{
+    text-transform: capitalize;
+    font-size: 26px;
+    font-weight: 600;
+    color: #771ad1;
+}
+
+
+.form-control:focus,
+.form-select:focus{
+    border-color: #771ad1 !important;
+    box-shadow: none !important;
+}
+
+.form-control::placeholder,
+.form-select::placeholder{
+    color: rgb(165, 162, 162) !important;
+    opacity: 0.2;
+}
+
+
+
+
+
+/*================================table css========================*/
+.table-responsive{
+    /* box-shadow: 0px 0px 10px #c5c5c5; */
+    /* border: 1px solid #c5c5c5; */
+}
+
+.table {
+    margin-bottom: 0px !important;
+}
+
+
+.table thead tr th{
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.table  tbody tr td{
+    font-size: 16px;
+    font-weight: 400;
+}
+
+
+.table  tbody tr td h2{
+    min-width: 200px;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.table  tbody tr td p{
+    min-width: 200px;
+    margin-bottom: 0px;
+}
+
+.table  tbody tr td .datepicker{
+    width: 100%;
+    display: inline-block;
+    border: 1px solid #dddddd;
+    height: 40px;
+    border-radius: 8px;
+    background: white;
+    box-shadow: 4px 4px 4px #e7e7e7 inset;
+    width: 160px;
+    padding: 8px;
+}
+
+.ui-widget-content{
+    width: 100%;
+    z-index: 1;
+    position: relative;
+    /* display: none !important; */
+}
+
+.table  tbody tr td .table-button{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.table  tbody tr td .editbtn{
+    color: #62bfac;
+    font-size: 14px;
+    background: #f7f7f7;
+    box-shadow: 1px 1px 5px #93939345;
+    display: flex;
+    gap: 4px;
+    align-items: center;
+    padding: 4px 8px;
+    font-weight: 500;
+}
+
+.table  tbody tr td .deletebtn{
+    color: #f05050;
+    font-size: 14px;
+    background: #f7f7f7;
+    box-shadow: 1px 1px 5px #93939345;
+    display: flex;
+    gap: 4px;
+    align-items: center;
+    padding: 4px 8px;
+    font-weight: 500;
+}
+
+
+/*=============================form css===============================*/
+.task-form {
+    padding: 15px;
+}
+.task-form .form-group{
+    margin-bottom: 20px;
+}
+
+.task-form .form-group label{
+    padding-bottom: 4px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.error-input {
+    border: 1px solid red;
+}

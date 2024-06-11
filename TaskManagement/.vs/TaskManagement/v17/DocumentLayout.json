@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\s6\\Downloads\\TaskManagement\\TaskManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C39EBCDF-F7C1-44AD-81A1-3C9BC56AAA84}|TaskManagement.csproj|c:\\users\\s6\\downloads\\taskmanagement\\taskmanagement\\taskmanagement.tests\\createtasktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39EBCDF-F7C1-44AD-81A1-3C9BC56AAA84}|TaskManagement.csproj|solutionrelative:taskmanagement.tests\\createtasktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39EBCDF-F7C1-44AD-81A1-3C9BC56AAA84}|TaskManagement.csproj|c:\\users\\s6\\downloads\\taskmanagement\\taskmanagement\\wwwroot\\js\\taskform.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C39EBCDF-F7C1-44AD-81A1-3C9BC56AAA84}|TaskManagement.csproj|solutionrelative:wwwroot\\js\\taskform.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39EBCDF-F7C1-44AD-81A1-3C9BC56AAA84}|TaskManagement.csproj|c:\\users\\s6\\downloads\\taskmanagement\\taskmanagement\\taskmanagement.tests\\deletetasktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39EBCDF-F7C1-44AD-81A1-3C9BC56AAA84}|TaskManagement.csproj|solutionrelative:taskmanagement.tests\\deletetasktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39EBCDF-F7C1-44AD-81A1-3C9BC56AAA84}|TaskManagement.csproj|c:\\users\\s6\\downloads\\taskmanagement\\taskmanagement\\taskmanagement.tests\\updatetasktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39EBCDF-F7C1-44AD-81A1-3C9BC56AAA84}|TaskManagement.csproj|solutionrelative:taskmanagement.tests\\updatetasktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39EBCDF-F7C1-44AD-81A1-3C9BC56AAA84}|TaskManagement.csproj|c:\\users\\s6\\downloads\\taskmanagement\\taskmanagement\\services\\taskservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39EBCDF-F7C1-44AD-81A1-3C9BC56AAA84}|TaskManagement.csproj|solutionrelative:services\\taskservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39EBCDF-F7C1-44AD-81A1-3C9BC56AAA84}|TaskManagement.csproj|c:\\users\\s6\\downloads\\taskmanagement\\taskmanagement\\controllers\\api\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39EBCDF-F7C1-44AD-81A1-3C9BC56AAA84}|TaskManagement.csproj|solutionrelative:controllers\\api\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39EBCDF-F7C1-44AD-81A1-3C9BC56AAA84}|TaskManagement.csproj|c:\\users\\s6\\downloads\\taskmanagement\\taskmanagement\\wwwroot\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C39EBCDF-F7C1-44AD-81A1-3C9BC56AAA84}|TaskManagement.csproj|solutionrelative:wwwroot\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39EBCDF-F7C1-44AD-81A1-3C9BC56AAA84}|TaskManagement.csproj|c:\\users\\s6\\downloads\\taskmanagement\\taskmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C39EBCDF-F7C1-44AD-81A1-3C9BC56AAA84}|TaskManagement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39EBCDF-F7C1-44AD-81A1-3C9BC56AAA84}|TaskManagement.csproj|c:\\users\\s6\\downloads\\taskmanagement\\taskmanagement\\controllers\\render\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39EBCDF-F7C1-44AD-81A1-3C9BC56AAA84}|TaskManagement.csproj|solutionrelative:controllers\\render\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.js",
+              "DocumentMoniker": "C:\\Users\\s6\\Downloads\\TaskManagement\\TaskManagement\\wwwroot\\js\\Index.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\Index.js",
+              "ToolTip": "C:\\Users\\s6\\Downloads\\TaskManagement\\TaskManagement\\wwwroot\\js\\Index.js",
+              "RelativeToolTip": "wwwroot\\js\\Index.js",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowHoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-11T06:17:37.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskForm.js",
+              "DocumentMoniker": "C:\\Users\\s6\\Downloads\\TaskManagement\\TaskManagement\\wwwroot\\js\\TaskForm.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\TaskForm.js",
+              "ToolTip": "C:\\Users\\s6\\Downloads\\TaskManagement\\TaskManagement\\wwwroot\\js\\TaskForm.js",
+              "RelativeToolTip": "wwwroot\\js\\TaskForm.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-11T06:17:30.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\s6\\Downloads\\TaskManagement\\TaskManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\s6\\Downloads\\TaskManagement\\TaskManagement\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-10T18:25:10.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\s6\\Downloads\\TaskManagement\\TaskManagement\\Controllers\\API\\TaskController.cs",
+              "RelativeDocumentMoniker": "Controllers\\API\\TaskController.cs",
+              "ToolTip": "C:\\Users\\s6\\Downloads\\TaskManagement\\TaskManagement\\Controllers\\API\\TaskController.cs",
+              "RelativeToolTip": "Controllers\\API\\TaskController.cs",
+              "ViewState": "AQIAADYAAAAA//////8HwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:19:44.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskServices.cs",
+              "DocumentMoniker": "C:\\Users\\s6\\Downloads\\TaskManagement\\TaskManagement\\Services\\TaskServices.cs",
+              "RelativeDocumentMoniker": "Services\\TaskServices.cs",
+              "ToolTip": "C:\\Users\\s6\\Downloads\\TaskManagement\\TaskManagement\\Services\\TaskServices.cs",
+              "RelativeToolTip": "Services\\TaskServices.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:17:32.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateTaskTests.cs",
+              "DocumentMoniker": "C:\\Users\\s6\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement.Tests\\CreateTaskTests.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Tests\\CreateTaskTests.cs",
+              "ToolTip": "C:\\Users\\s6\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement.Tests\\CreateTaskTests.cs",
+              "RelativeToolTip": "TaskManagement.Tests\\CreateTaskTests.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwB0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:15:45.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateTaskTests.cs",
+              "DocumentMoniker": "C:\\Users\\s6\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement.Tests\\UpdateTaskTests.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Tests\\UpdateTaskTests.cs",
+              "ToolTip": "C:\\Users\\s6\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement.Tests\\UpdateTaskTests.cs",
+              "RelativeToolTip": "TaskManagement.Tests\\UpdateTaskTests.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:18:38.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteTaskTests.cs",
+              "DocumentMoniker": "C:\\Users\\s6\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement.Tests\\DeleteTaskTests.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Tests\\DeleteTaskTests.cs",
+              "ToolTip": "C:\\Users\\s6\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement.Tests\\DeleteTaskTests.cs",
+              "RelativeToolTip": "TaskManagement.Tests\\DeleteTaskTests.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:20:41.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\s6\\Downloads\\TaskManagement\\TaskManagement\\Controllers\\Render\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Render\\HomeController.cs",
+              "ToolTip": "C:\\Users\\s6\\Downloads\\TaskManagement\\TaskManagement\\Controllers\\Render\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\Render\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:05:50.185Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
