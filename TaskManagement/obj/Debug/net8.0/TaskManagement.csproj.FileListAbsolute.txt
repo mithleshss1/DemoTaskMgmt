@@ -788,6 +788,7 @@ C:\Users\s6\Downloads\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagem
 C:\Users\s6\Downloads\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.pdb
 C:\Users\s6\Downloads\TaskManagement\TaskManagement\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\s6\Downloads\TaskManagement\TaskManagement\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\s6\Downloads\TaskManagement\TaskManagement\bin\Debug\net8.0\Castle.Core.dll
 C:\Users\s6\Downloads\TaskManagement\TaskManagement\bin\Debug\net8.0\Humanizer.dll
 C:\Users\s6\Downloads\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\s6\Downloads\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
@@ -833,6 +834,7 @@ C:\Users\s6\Downloads\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.V
 C:\Users\s6\Downloads\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
 C:\Users\s6\Downloads\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\s6\Downloads\TaskManagement\TaskManagement\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\s6\Downloads\TaskManagement\TaskManagement\bin\Debug\net8.0\Moq.dll
 C:\Users\s6\Downloads\TaskManagement\TaskManagement\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\s6\Downloads\TaskManagement\TaskManagement\bin\Debug\net8.0\NuGet.Common.dll
 C:\Users\s6\Downloads\TaskManagement\TaskManagement\bin\Debug\net8.0\NuGet.Configuration.dll
@@ -1038,3 +1040,13 @@ C:\Users\s6\Downloads\TaskManagement\TaskManagement\obj\Debug\net8.0\refint\Task
 C:\Users\s6\Downloads\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.pdb
 C:\Users\s6\Downloads\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.genruntimeconfig.cache
 C:\Users\s6\Downloads\TaskManagement\TaskManagement\obj\Debug\net8.0\ref\TaskManagement.dll
+C:\Users\s6\Downloads\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.Tests\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\s6\Downloads\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.Tests\bin\Debug\net8.0\appsettings.json
+C:\Users\s6\Downloads\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.Tests\bin\Debug\net8.0\libman.json
+C:\Users\s6\Downloads\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.Tests\bin\Debug\net8.0\TaskManagement.deps.json
+C:\Users\s6\Downloads\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.Tests\bin\Debug\net8.0\TaskManagement.runtimeconfig.json
+C:\Users\s6\Downloads\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.Tests\bin\Debug\net8.0\TaskManagement.staticwebassets.runtime.json
+C:\Users\s6\Downloads\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.Tests\bin\Debug\net8.0\TaskManagement.Tests.deps.json
+C:\Users\s6\Downloads\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.Tests\bin\Debug\net8.0\TaskManagement.Tests.runtimeconfig.json
+C:\Users\s6\Downloads\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.Tests\bin\Debug\net8.0\TaskManagement.Tests\obj\project.assets.json
+C:\Users\s6\Downloads\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.Tests\bin\Debug\net8.0\TaskManagement.Tests\obj\TaskManagement.Tests.csproj.nuget.dgspec.json

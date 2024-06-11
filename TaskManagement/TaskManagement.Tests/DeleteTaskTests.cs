@@ -1,27 +1,44 @@
-﻿using TaskManagement.Contracts;
+﻿using Microsoft.EntityFrameworkCore;
+using Moq;
+using TaskManagement.Context;
+using TaskManagement.Contracts;
 using TaskManagement.Models;
+using TaskManagement.Services;
 
 namespace TaskManagement.TaskManagement.Tests
 {
-    public class DeleteTaskTests
+    public class DeleteTaskTests : IDisposable
     {
         private readonly ITaskServices _taskServices;
+        private readonly DbContextOptions<TaskManagementContext> _dbContextOptions;
+        private readonly TaskManagementContext _dbContext;
 
-        public DeleteTaskTests(ITaskServices taskServices)
+        public DeleteTaskTests()
         {
-            _taskServices = taskServices;
+            _dbContextOptions = new DbContextOptionsBuilder<TaskManagementContext>()
+                .UseSqlServer("Server=DESKTOP-A6LE2VP\\SSPL_KARTIK;Database=TaskDB;Integrated Security=True;TrustServerCertificate=True")
+                .Options;
+            _dbContext = new TaskManagementContext(_dbContextOptions);
+
+            _taskServices = new TaskServices(_dbContext);
         }
 
         [Theory]
-        [InlineData("6D521557-76C5-46CC-50B3-08DC89633A17")]
-        [InlineData("")]
-        [InlineData("16B69D11-7B1B-7G49-DF8E-08DC897BDB81")]
+        [InlineData("82CFED60-C592-49F1-CF1E-08DC8972F245")]
+        [InlineData("7A2E6278-2295-4D58-B8D3-08DC89F9E7D3")]
+        [InlineData("6A1AB197-F3B6-4E07-CD3B-08DC89E31CA2")]
         public async Task DeleteTask(string taskId)
         {
             var taskGuidId = new Guid(taskId);
-            var response = await _taskServices.RemoveTaskByIdAsync(taskGuidId);
 
-            Assert.False(response != "Success", $"Task not updated!");
+            var response = await _taskServices.RemoveTaskByIdAsync(taskGuidId);           
+
+            Assert.Equal("Success", response);
+        }
+
+        public void Dispose()
+        {
+            _dbContext.Dispose();
         }
     }
 }
