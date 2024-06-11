@@ -16,7 +16,7 @@ namespace TaskManagement.Tests
         public CreateTaskTests()
         {
             _dbContextOptions = new DbContextOptionsBuilder<TaskManagementContext>()
-                .UseSqlServer("Server=DESKTOP-A6LE2VP\\SSPL_KARTIK;Database=TaskDB;Integrated Security=True;TrustServerCertificate=True")
+                .UseSqlServer(StaticCommon.ConnectionString)
                 .Options;
             _dbContext = new TaskManagementContext(_dbContextOptions);
 

@@ -4,6 +4,7 @@ using TaskManagement.Context;
 using TaskManagement.Contracts;
 using TaskManagement.Models;
 using TaskManagement.Services;
+using TaskManagement.Tests;
 
 namespace TaskManagement.TaskManagement.Tests
 {
@@ -16,7 +17,7 @@ namespace TaskManagement.TaskManagement.Tests
         public UpdateTaskTests()
         {
             _dbContextOptions = new DbContextOptionsBuilder<TaskManagementContext>()
-                .UseSqlServer("Server=DESKTOP-A6LE2VP\\SSPL_KARTIK;Database=TaskDB;Integrated Security=True;TrustServerCertificate=True")
+                .UseSqlServer(StaticCommon.ConnectionString)
                 .Options;
             _dbContext = new TaskManagementContext(_dbContextOptions);
 

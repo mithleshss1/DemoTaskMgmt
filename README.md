@@ -11,7 +11,10 @@ Update-database -V
 
 #5 Run the project using F5 
 
-#6 In order to execute UnitTest locate TaskManagement.Tests folder in Windows Explorer and run the command prompt (CMD) from there and run the following command:
+#6 In order to execute UnitTest cases modify the connection string defined in StaticCommon.cs file.
+
+#7 From Windows Explorer locate "TaskManagement.Tests" folder and run the command prompt (CMD) from there. On your command prompt execute the following command:
 DOTNET Test
 
-#7 In case if you encounter any error stop the debugging and clean the solution from VS.
+#8 In case if you encounter any error stop the debugging and clean the solution from VS.
+

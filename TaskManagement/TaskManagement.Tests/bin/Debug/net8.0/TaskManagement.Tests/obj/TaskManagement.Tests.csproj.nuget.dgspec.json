@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s6\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement.Tests\\TaskManagement.Tests.csproj": {}
+    "E:\\ProjectsNew\\DemoApp\\TaskManagement\\TaskManagement.Tests\\TaskManagement.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s6\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement.csproj": {
+    "E:\\ProjectsNew\\DemoApp\\TaskManagement\\TaskManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s6\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement.csproj",
+        "projectUniqueName": "E:\\ProjectsNew\\DemoApp\\TaskManagement\\TaskManagement.csproj",
         "projectName": "TaskManagement",
-        "projectPath": "C:\\Users\\s6\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement.csproj",
-        "packagesPath": "C:\\Users\\s6\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s6\\Downloads\\TaskManagement\\TaskManagement\\obj\\",
+        "projectPath": "E:\\ProjectsNew\\DemoApp\\TaskManagement\\TaskManagement.csproj",
+        "packagesPath": "C:\\Users\\Mithlesh\\.nuget\\packages\\",
+        "outputPath": "E:\\ProjectsNew\\DemoApp\\TaskManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\s6\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mithlesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,8 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.devexpress.com/api": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -100,17 +99,17 @@
         }
       }
     },
-    "C:\\Users\\s6\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement.Tests\\TaskManagement.Tests.csproj": {
+    "E:\\ProjectsNew\\DemoApp\\TaskManagement\\TaskManagement.Tests\\TaskManagement.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s6\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement.Tests\\TaskManagement.Tests.csproj",
+        "projectUniqueName": "E:\\ProjectsNew\\DemoApp\\TaskManagement\\TaskManagement.Tests\\TaskManagement.Tests.csproj",
         "projectName": "TaskManagement.Tests",
-        "projectPath": "C:\\Users\\s6\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement.Tests\\TaskManagement.Tests.csproj",
-        "packagesPath": "C:\\Users\\s6\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s6\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement.Tests\\obj\\",
+        "projectPath": "E:\\ProjectsNew\\DemoApp\\TaskManagement\\TaskManagement.Tests\\TaskManagement.Tests.csproj",
+        "packagesPath": "C:\\Users\\Mithlesh\\.nuget\\packages\\",
+        "outputPath": "E:\\ProjectsNew\\DemoApp\\TaskManagement\\TaskManagement.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\s6\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mithlesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -118,15 +117,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.devexpress.com/api": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\s6\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement.csproj": {
-                "projectPath": "C:\\Users\\s6\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement.csproj"
+              "E:\\ProjectsNew\\DemoApp\\TaskManagement\\TaskManagement.csproj": {
+                "projectPath": "E:\\ProjectsNew\\DemoApp\\TaskManagement\\TaskManagement.csproj"
               }
             }
           }
